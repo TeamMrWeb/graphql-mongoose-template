@@ -4,8 +4,9 @@ A simple GraphQL with Mongoose app that is configured with GraphQL Yoga.
 
 ## ✨ Features
 
--   GraphQL Yoga
--   Mongoose
+-   graphql-yoga
+-   mongoose
+-   simple structure
 
 ## 💁‍♀️ How to use
 
