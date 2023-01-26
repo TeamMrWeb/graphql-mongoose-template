@@ -1,7 +1,9 @@
 {
     "name": "graphql-backend-template",
     "version": "1.0.0",
-    "description": "Parches Snippets Hub",
+    "description": "A simple GraphQL backend template",
+    "author": "Manuel Cabral",
+    "license": "MIT",
     "private": false,
     "main": "src/index.js",
     "scripts": {
@@ -17,7 +19,5 @@
     "devDependencies": {
         "dotenv": "^16.0.3",
         "nodemon": "^2.0.20"
-    },
-    "author": "Manuel Cabral",
-    "license": "MIT"
+    }
 }
