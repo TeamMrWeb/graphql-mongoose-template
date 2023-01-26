@@ -1,7 +1,7 @@
 {
-    "name": "graphql-backend-template",
+    "name": "graphql-mongoose-template",
     "version": "1.0.0",
-    "description": "A simple GraphQL backend template",
+    "description": "A simple GraphQL and Mongoose template",
     "author": "Manuel Cabral",
     "license": "MIT",
     "private": false,
